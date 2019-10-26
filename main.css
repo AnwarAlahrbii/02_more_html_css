@@ -1,0 +1,133 @@
+
+body{
+    margin: 0;
+    background-color:black;
+
+   }
+   
+   /* .float-left{
+    float: left;
+   } */
+   
+    /* .float-right{
+    float: right;
+    padding-top: 50px;
+    width: 800px;
+    font-size: 20px;
+    padding-right: 25px;
+    
+   }  */
+  
+   .anwar{
+       color: white;
+       text-align: right;
+      margin: 25px;
+      font-size: 13px;
+      
+   }
+  
+   
+   li{
+    padding-right: 25px;
+   display: inline-block;
+   }
+
+   ul{
+     padding-top: 30px;
+       float:right;
+       font-size: 20px;
+       color: white;
+       margin: 50px;
+
+   }
+
+   
+   /* .clearfix{
+    clear: both;
+   }
+   ul.float-right{
+    list-style: none;
+    margin: 2;
+   } */
+   
+   /* .float-right a{
+      display: block;
+     text-align: center;
+     color: black;
+     width: 100%;
+
+
+   } */
+  
+
+.middle_section{
+    width:40%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 100px 0;
+    
+}
+
+
+.middle_section p{
+    text-transform: capitalize;
+    color: white;
+    font-size: 70px;
+    border:solid 2px white;
+   
+    
+    
+    
+   }
+   /* .middle_section p:first-child{
+    text-transform: uppercase;
+   }
+   
+   .middle_section p:nth-child(2){
+    font-size: 50px;
+    margin-bottom: 150px;
+   } */
+#Join_btn{
+    background-color:black;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    float: center;
+    font-size: 40px;
+
+
+
+}
+ .cleanrfix{
+    clear: both;
+    margin: 30px;
+} 
+
+.banner{
+
+    background-image: url('https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:black;
+    height: 700px;
+   
+}
+
+
+ul li{
+    float: left;
+   }
+   
+   .flex-huda{
+    display: flex;
+    color: white;
+   text-align: center;
+   padding: 10px;
+   margin: 10px;
+   justify-content: space-between;
+   font-size: 20px;
+   } 
+  
+   
+
